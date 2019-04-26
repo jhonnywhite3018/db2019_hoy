@@ -1,0 +1,9 @@
+<br/>
+soy <b>Jhonny Blanco vivo en Puente Arce</b>
+<br/>
+<br/>
+
+<a href= "http://es.linkedin.com/in/jhonnywhite2000" target = _blank> Linkedin </a>
+<a href= "http://github.com/jhonnywhite2000" target = _blank> &nbsp &nbsp &nbsp Github </a>
+<a href= "https://stackexchange.com/users/15756093/jhonnywhite2000"> &nbsp &nbsp &nbsp Stackoverflow </a>
+<a href= "http://gitlab.com/jhonnywhite3018"> &nbsp &nbsp &nbsp Gitlab </a>
